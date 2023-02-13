@@ -4,5 +4,6 @@
 
 
 #Gambar Hasil
-![image](https://user-images.githubusercontent.com/102007716/218456241-a36070f2-6de7-44dd-912d-8a48cc1ea117.png)
+![image](https://user-images.githubusercontent.com/102007716/218456600-19b36529-fa7f-4cf2-8da4-46bc2008992d.png)
+
 
